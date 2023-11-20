@@ -1,0 +1,48 @@
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\bin\Debug\SpeedBussss.exe.config
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\bin\Debug\SpeedBussss.exe
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\bin\Debug\SpeedBussss.pdb
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.csproj.AssemblyReference.cache
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.Creditos.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EncontrarPassagem.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.Properties.Resources.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.TelaInicial.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.csproj.GenerateResource.cache
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.exe
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.pdb
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolherHorarioJipa.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolherHorarioOpo.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaOpo.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaJipaOito.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaJipaOnzemeia.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaJipaSeteMeia.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaOpoOito.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaOpoOnzemeia.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.CadastroPessoa.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.EscolhePagamento.resources
+C:\Users\Giovanna Siminaione\source\repos\SpeedBussss\SpeedBussss\obj\Debug\SpeedBussss.Obrigado.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.csproj.AssemblyReference.cache
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.CadastroPessoa.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.Creditos.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EncontrarPassagem.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolhePagamento.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolherHorarioJipa.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolherHorarioOpo.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaJipaOito.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaJipaOnzemeia.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaJipaSeteMeia.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaOpo.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaOpoOito.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.EscolherPoltronaOpoOnzemeia.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.Obrigado.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.Properties.Resources.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.TelaInicial.resources
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.csproj.GenerateResource.cache
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.csproj.CoreCompileInputs.cache
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.exe
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\obj\Debug\SpeedBussss.pdb
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\bin\Debug\SpeedBussss.exe.config
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\bin\Debug\SpeedBussss.exe
+C:\Users\2022102020029\Downloads\spedbusssss-main\spedbusssss-main\SpeedBussss\bin\Debug\SpeedBussss.pdb

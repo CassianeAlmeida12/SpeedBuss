@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7CC8F1E0-CDB3-4DC8-A0A2-D086151570F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SpeedBussss</RootNamespace>
+    <AssemblyName>SpeedBussss</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CadastroPessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroPessoa.Designer.cs">
+      <DependentUpon>CadastroPessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Creditos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Creditos.Designer.cs">
+      <DependentUpon>Creditos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EncontrarPassagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EncontrarPassagem.Designer.cs">
+      <DependentUpon>EncontrarPassagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolhePagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolhePagamento.Designer.cs">
+      <DependentUpon>EscolhePagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolherHorarioJipa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolherHorarioJipa.Designer.cs">
+      <DependentUpon>EscolherHorarioJipa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolherHorarioOpo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolherHorarioOpo.Designer.cs">
+      <DependentUpon>EscolherHorarioOpo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolherPoltronaJipaOito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolherPoltronaJipaOito.Designer.cs">
+      <DependentUpon>EscolherPoltronaJipaOito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolherPoltronaJipaOnzemeia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolherPoltronaJipaOnzemeia.Designer.cs">
+      <DependentUpon>EscolherPoltronaJipaOnzemeia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolherPoltronaJipaSeteMeia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolherPoltronaJipaSeteMeia.Designer.cs">
+      <DependentUpon>EscolherPoltronaJipaSeteMeia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolherPoltronaOpo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolherPoltronaOpo.Designer.cs">
+      <DependentUpon>EscolherPoltronaOpo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolherPoltronaOpoOito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolherPoltronaOpoOito.Designer.cs">
+      <DependentUpon>EscolherPoltronaOpoOito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolherPoltronaOpoOnzemeia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolherPoltronaOpoOnzemeia.Designer.cs">
+      <DependentUpon>EscolherPoltronaOpoOnzemeia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obrigado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obrigado.Designer.cs">
+      <DependentUpon>Obrigado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaInicial.Designer.cs">
+      <DependentUpon>TelaInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CadastroPessoa.resx">
+      <DependentUpon>CadastroPessoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Creditos.resx">
+      <DependentUpon>Creditos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EncontrarPassagem.resx">
+      <DependentUpon>EncontrarPassagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolhePagamento.resx">
+      <DependentUpon>EscolhePagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolherHorarioJipa.resx">
+      <DependentUpon>EscolherHorarioJipa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolherHorarioOpo.resx">
+      <DependentUpon>EscolherHorarioOpo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolherPoltronaJipaOito.resx">
+      <DependentUpon>EscolherPoltronaJipaOito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolherPoltronaJipaOnzemeia.resx">
+      <DependentUpon>EscolherPoltronaJipaOnzemeia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolherPoltronaJipaSeteMeia.resx">
+      <DependentUpon>EscolherPoltronaJipaSeteMeia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolherPoltronaOpo.resx">
+      <DependentUpon>EscolherPoltronaOpo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolherPoltronaOpoOito.resx">
+      <DependentUpon>EscolherPoltronaOpoOito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscolherPoltronaOpoOnzemeia.resx">
+      <DependentUpon>EscolherPoltronaOpoOnzemeia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obrigado.resx">
+      <DependentUpon>Obrigado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TelaInicial.resx">
+      <DependentUpon>TelaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela inicial %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2815%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela de auto atendimento %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2816%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2816%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2817%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2817%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2817%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2817%293.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2817%294.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2817%295.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2818%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2819%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2820%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2821%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange Bus Tour Online Service Poster %2822%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
